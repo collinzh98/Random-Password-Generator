@@ -37,17 +37,17 @@ body{
     border-radius: 5px;
     letter-spacing: 1px;
     padding: 12px 10px;
-    height: 40px;
+    height: 50px;
     width: 100%;
 }
 .password-container #result{
     word-wrap: break-word;
     max-width: calc(100% - 40px);
 }
-.password-container .btn{
+.container .password-container .btn{
     font-size: 18px;
     position: absolute;
-    top: 5;
+    top: 5px;
     right: 5px;
     height: 40px;
     width: 40px;
